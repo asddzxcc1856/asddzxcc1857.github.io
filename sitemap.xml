@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://asddzxcc1857.github.io/asddzxcc1857.github.io/2022/01/30/java_hw07/</loc>
+    <loc>https://asddzxcc1857.github.io/asddzxcc1857.github.io/2022/04/17/java_hw07/</loc>
     
     <lastmod>2022-04-17</lastmod>
     
@@ -140,6 +140,13 @@
   </url>
   
   <url>
+    <loc>https://asddzxcc1857.github.io/asddzxcc1857.github.io/tags/STL/</loc>
+    <lastmod>2022-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://asddzxcc1857.github.io/asddzxcc1857.github.io/tags/CPE/</loc>
     <lastmod>2022-04-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -169,13 +176,6 @@
   
   <url>
     <loc>https://asddzxcc1857.github.io/asddzxcc1857.github.io/tags/%E4%BD%9C%E6%A5%AD/</loc>
-    <lastmod>2022-04-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://asddzxcc1857.github.io/asddzxcc1857.github.io/tags/STL/</loc>
     <lastmod>2022-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
